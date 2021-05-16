@@ -76,7 +76,12 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    The DOM is the Document Object Model
 2. What is an event?
+    Events are HTML being adjusted. Javascript can adjust these events in HTML
 3. What is an event listener?
+    A procedure that standing by for an event to happen in Javascript
 4. Why would we convert a NodeList into an Array?
+    To make the Nodelist more accessible to Javascript
 5. What is a component?
+    Individual and reusable code that have equal meaning as Javascript functions
